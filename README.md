@@ -23,7 +23,7 @@ HPや各種コンテンツの素材として使用する場合は、クレジッ
 
 ## おのうえパンダ画像
 
-<img src="パンダです.png" width="200px" height="200px"> <img src="onouepanda-t600.png" width="200px" height="200px"> <img src="okita.png" width="200px" height="200px"> <img src="naruhodo.png" width="200px" height="200px"> <img src="kataganai.png" width="200px" height="200px"><img src="netenai.svg" width="200px" height="200px"><img src="netenai.png" width="200px" height="200px">
+<img src="パンダです.png" width="200px" height="200px"> <img src="onouepanda-t600.png" width="200px" height="200px"> <img src="okita.png" width="200px" height="200px"> <img src="naruhodo.png" width="200px" height="200px"> <img src="kataganai.png" width="200px" height="200px"><img src="netenai.svg" width="200px" height="200px"><img src="netenai.png" width="200px" height="200px"><img src="copypaste_ok.png" width="200px" height="200px"><img src="neruka.png" width="200px" height="200px">
 <br><br><br>
 
 
